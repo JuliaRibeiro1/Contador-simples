@@ -1,1 +1,1 @@
-# Aula-JavaScript
+Esse mini projeto é um exercício de JavaScript, se trata de um contador que vai de 0 até 10.
